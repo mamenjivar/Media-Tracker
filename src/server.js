@@ -33,6 +33,7 @@ const secret = process.env.MONGO_SECRET;
 
 mongoose
     .connect(mongo_uri, {
+        useUnifiedTopology: true,
         useNewUrlParser: true,
         useCreateIndex: true
     })
