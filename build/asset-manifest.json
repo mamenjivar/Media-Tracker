@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44b6433c.chunk.css",
+    "main.js": "/static/js/main.8a6a2656.chunk.js",
+    "main.js.map": "/static/js/main.8a6a2656.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3930960f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3930960f.js.map",
+    "static/css/2.cd45e5a2.chunk.css": "/static/css/2.cd45e5a2.chunk.css",
+    "static/js/2.78b8ab1b.chunk.js": "/static/js/2.78b8ab1b.chunk.js",
+    "static/js/2.78b8ab1b.chunk.js.map": "/static/js/2.78b8ab1b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b9441aded73478837e4d7f49a55b5b32.js": "/precache-manifest.b9441aded73478837e4d7f49a55b5b32.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.cd45e5a2.chunk.css.map": "/static/css/2.cd45e5a2.chunk.css.map",
+    "static/css/main.44b6433c.chunk.css.map": "/static/css/main.44b6433c.chunk.css.map",
+    "static/media/GOT_Cover.jpg": "/static/media/GOT_Cover.9a133ed8.jpg",
+    "static/media/Parks_And_Rec_Cover.png": "/static/media/Parks_And_Rec_Cover.1973afa0.png",
+    "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/The_Office_Cover.png": "/static/media/The_Office_Cover.e702ab28.png",
+    "static/media/pentatech-logo.png": "/static/media/pentatech-logo.2d88c542.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3930960f.js",
+    "static/css/2.cd45e5a2.chunk.css",
+    "static/js/2.78b8ab1b.chunk.js",
+    "static/css/main.44b6433c.chunk.css",
+    "static/js/main.8a6a2656.chunk.js"
+  ]
+}
