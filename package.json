@@ -32,12 +32,12 @@
     "slick-carousel": "^1.8.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "heroku-postbuild": "npm install --only=dev && npm run build",
-    "build": "react-scripts build",
+    "start": "node src/server.js",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "devStart": "node src/server.js"
+    "heroku-postbuild": "react-scripts start"
+  },
+  "startFront": {
+    "start": "react-scripts start"
   },
   "eslintConfig": {
     "extends": "react-app"
