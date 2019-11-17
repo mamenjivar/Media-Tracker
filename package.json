@@ -32,10 +32,10 @@
     "slick-carousel": "^1.8.1"
   },
   "scripts": {
-    "startBack": "node src/server.js && react-script start",
+    "start": "node src/server.js && react-scripts start",
     "test": "react-scripts test",
     "build": "react-scripts build",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
   },
   "eslintConfig": {
     "extends": "react-app"
