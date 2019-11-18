@@ -33,11 +33,11 @@
   },
   "scripts": {
     "start": "node src/server.js && npm run devStart",
+    "heroku-postbuild": "npm run build",
     "test": "react-scripts test",
     "build": "react-scripts build",
     "eject": "react-scripts eject",
-    "devStart": "react-scripts start",
-    "heroku-postbuild": "npm run build"
+    "devStart": "react-scripts start"
   },
   "eslintConfig": {
     "extends": "react-app"
